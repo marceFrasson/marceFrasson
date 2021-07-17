@@ -5,3 +5,7 @@ I'm passionate about technology since I was born, started my life as graphic des
 Despite my love for manual labour and electronics, I found out that my one true love is programing :heart: As visual artist I fkng LOVE TouchDesigner, where I wrote my first software with lots of Python scripts.
 
 I'm currently studying Software Engineering at 42 São Paulo, and even though I'm still learning, I really like to share my knowledge as I believe the more you share the more you learn.
+
+Currently learning:
+  C
+  Python
