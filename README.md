@@ -44,6 +44,15 @@ I'm currently studying Software Engineering at 42 São Paulo, and even though I'
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40">
   </a>
+  <a href="#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" height="40">
+  </a>
+  <a href="#">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSegS-E38OPDIq8ApynU7UVjx-6bs1Oz7PkqQ&usqp=CAU" height="40">
+  </a>
+  <a href="#">
+    <img src="https://w7.pngwing.com/pngs/346/81/png-transparent-macos-sierra-os-x-mavericks-apple-angle-logo-fruit-nut.png" height="40">
+  </a>
   <br/>  
   <br/>
   <a href="https://www.linkedin.com/in/marcefrasson/">
