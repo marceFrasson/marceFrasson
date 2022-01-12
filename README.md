@@ -8,13 +8,13 @@ I'm currently studying Software Engineering at 42 São Paulo, and even though I'
   <a href="https://github.com/marceFrasson">
   <img
       align="center"
-      height="180em"
+      height="130em"
       src="https://github-readme-stats.vercel.app/api?username=marceFrasson&theme=dark&show_icons=true" />
 </a>  
   <a href="https://github.com/marceFrasson">
     <img
       align="center"
-      height="180em"
+      height="130em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceFrasson&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark"
     />
   </a>
