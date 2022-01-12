@@ -37,9 +37,6 @@ I'm currently studying Software Engineering at 42 São Paulo, and even though I'
   </a>
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-marcefrasson@gmail.com-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=marcefrasson@gmail.com" /></a>
-  <a href="https://github.com/marceFrasson">
-    <img src="https://img.shields.io/github/followers/marceFrasson?label=follow&style=social"/>
-  </a>
 </p>
 
 <br/>
