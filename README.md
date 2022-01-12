@@ -24,16 +24,16 @@ I'm currently studying Software Engineering at 42 São Paulo, and even though I'
 
 <p align="center">
   <a href="#">
-    <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" height="40">
+    <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" height="40">
   </a>
   <a href="#">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXU42lHhY-gXo869CLGCFOM76NiQr2BaeIsVLAdH8ghjAasO1J0_3y_Vf5rWvg94srhZM&usqp=CAU" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="40">
   </a>
   <a href="#">
     <img src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-0.jpg" height="40">
   </a>
   <a href="#">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="40">
   </a>
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40">
@@ -48,10 +48,10 @@ I'm currently studying Software Engineering at 42 São Paulo, and even though I'
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" height="40">
   </a>
   <a href="#">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSegS-E38OPDIq8ApynU7UVjx-6bs1Oz7PkqQ&usqp=CAU" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" height="40">
   </a>
   <a href="#">
-    <img src="https://w7.pngwing.com/pngs/346/81/png-transparent-macos-sierra-os-x-mavericks-apple-angle-logo-fruit-nut.png" height="40">
+    <img src="http://svgur.com/i/TJ_.svg" height="40">
   </a>
   <br/>  
   <br/>
