@@ -24,25 +24,25 @@ I'm currently studying Software Engineering at 42 São Paulo, and even though I'
 
 <p align="center">
   <a href="#">
-    <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" height="30">
+    <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" height="40">
   </a>
   <a href="#">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXU42lHhY-gXo869CLGCFOM76NiQr2BaeIsVLAdH8ghjAasO1J0_3y_Vf5rWvg94srhZM&usqp=CAU" height="30">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXU42lHhY-gXo869CLGCFOM76NiQr2BaeIsVLAdH8ghjAasO1J0_3y_Vf5rWvg94srhZM&usqp=CAU" height="40">
   </a>
   <a href="#">
-    <img src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-0.jpg" height="30">
+    <img src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-0.jpg" height="40">
   </a>
   <a href="#">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="30">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="40">
   </a>
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40">
   </a>
   <a href="#">
-    <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height="30">
+    <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height="40">
   </a>
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40">
   </a>
   <br/>  
   <br/>
