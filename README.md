@@ -47,10 +47,11 @@ I'm currently studying Software Engineering at 42 São Paulo, and even though I'
   <br/>  
   <br/>
   <a href="https://www.linkedin.com/in/marcefrasson/">
-    <img src="https://img.shields.io/badge/-Marce%20Frasson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcefrasson/"/>
+    <img src="https://img.shields.io/badge/-Marce%20Frasson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcefrasson/" height="25/>
   </a>
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-marcefrasson@gmail.com-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=marcefrasson@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/-marcefrasson@gmail.com-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=marcefrasson@gmail.com" height="25"/>
+  </a>
 </p>
 
 <br/>
