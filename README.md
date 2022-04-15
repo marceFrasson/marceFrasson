@@ -30,6 +30,9 @@ I'm currently studying Software Engineering at 42 São Paulo, and even though I'
     <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="40">
   </a>
   <a href="#">
+    <img src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" height="40">
+  </a>
+  <a href="#">
     <img src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-0.jpg" height="40">
   </a>
   <a href="#">
