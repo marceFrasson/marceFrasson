@@ -1,6 +1,6 @@
 ### Hi, I'm Marce.
 
-I'm currently studying Software Engineering at 42 São Paulo, and even though I'm still learning, I really like to share my knowledge as I believe the more you share the more you learn. I'm also an intern in a AI company called Kunumi working with Machine Learning.
+I'm currently studying Software Engineering at 42 São Paulo, and I really like to share my knowledge as I believe the more you share the more you learn. I'm also an intern in a AI company called Kunumi working with Machine Learning.
 
 <br/>
 
