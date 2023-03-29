@@ -27,6 +27,12 @@ I'm currently studying Software Engineering at 42 São Paulo, and I really like 
     <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" height="40">
   </a>
   <a href="#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="40">
+  </a>
+  <a href="#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="40">
+  </a>
+  <a href="#">
     <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="40">
   </a>
   <a href="#">
