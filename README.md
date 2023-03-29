@@ -41,6 +41,9 @@ I'm absolutely passionate about technology and love to think about and discuss h
     <img src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" height="40">
   </a>
   <a href="#">
+    <img src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" height="40">
+  </a>
+  <a href="#">
     <img src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-0.jpg" height="40">
   </a>
   <a href="#">
