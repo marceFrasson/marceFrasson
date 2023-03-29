@@ -2,7 +2,7 @@
 
 I'm currently studying Software Engineering at 42 São Paulo, and I really like to share my knowledge as I believe the more you share the more you learn. I'm also an intern in a AI company called Kunumi working with Machine Learning.
 <br />
-I'm absolutely passionate about technology and love to think about and discuss how it impacts our lives and society. It's important for us to be having more discussions about the ethics of technology, especially in regard to AI.
+I'm absolutely passionate about technology and love to think about and discuss how it impacts our lives and society. It's important for us to be having more discussions about its ethics, especially in regard to AI.
 
 <br/>
 
