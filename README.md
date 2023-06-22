@@ -11,13 +11,13 @@ I'm absolutely passionate about technology and love to think about and discuss h
   <img
       align="center"
       height="160em"
-      src="https://github-readme-stats.vercel.app/api?username=marceFrasson&theme=dark&show_icons=true" />
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=marceFrasson&theme=dark&show_icons=true" />
 </a>  
   <a href="https://github.com/marceFrasson">
     <img
       align="center"
       height="160em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceFrasson&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marceFrasson&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark"
     />
   </a>
 </p>
