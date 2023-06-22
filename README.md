@@ -41,10 +41,13 @@ I'm absolutely passionate about technology and love to think about and discuss h
     <img src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" height="40">
   </a>
   <a href="#">
+    <img src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-0.jpg" height="40">
+  </a>
+  <a href="#">
     <img src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" height="40">
   </a>
   <a href="#">
-    <img src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-0.jpg" height="40">
+    <img src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png" height="40">
   </a>
   <a href="#">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="40">
