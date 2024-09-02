@@ -1,8 +1,6 @@
 ### Hi, I'm Marce.
 
-I'm currently studying Software Engineering at 42 São Paulo, and I really like to share my knowledge as I believe the more you share the more you learn. I'm also an intern in a AI company called Kunumi working with Machine Learning.
-<br /><br /> 
-I'm absolutely passionate about technology and love to think about and discuss how it impacts our lives and society. I consider really important for us to be having more discussions about its ethics, especially in regard to AI.
+I’m Marce Frasson, a Software Engineer and Data Scientist with a passion for AI safety. I specialize in machine learning, prompt engineering, and optimizing system performance. My goal is to leverage my skills to advance AI technologies and address safety challenges. Let’s connect if you’re interested in discussing AI, software development, or innovative tech solutions.
 
 <br/>
 
