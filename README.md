@@ -1,6 +1,6 @@
 ### Hi, I'm Marce.
 
-I’m Marce Frasson, a Software Engineer and Data Scientist with a passion for AI safety. I specialize in machine learning, prompt engineering, and optimizing system performance. My goal is to leverage my skills to advance AI technologies and address safety challenges. Let’s connect if you’re interested in discussing AI, software development, or innovative tech solutions.
+I’m a Software Engineer and Data Scientist with a passion for AI safety. I specialize in machine learning, prompt engineering, and optimizing system performance. My goal is to leverage my skills to advance AI technologies and address safety challenges. Let’s connect if you’re interested in discussing AI, software development, or innovative tech solutions.
 
 <br/>
 
